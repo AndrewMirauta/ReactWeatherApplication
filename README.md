@@ -1,3 +1,5 @@
+A simple weather application which uses an API (openweathermap) to let the user know the weather conditions in the city that the wish to query.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
